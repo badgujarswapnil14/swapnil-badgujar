@@ -1,4 +1,5 @@
-<img src="your-image-link.gif" width="30px">Hey! I'm Swapnil Badgujar
+## 👋 Hello!
+![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)Hey! I'm Swapnil Badgujar
 
 I'm a frontend developer who loves building clean and responsive websites using HTML, CSS, JavaScript, and React. I'm currently pursuing my B.Tech in Computer Science and Engineering at Sandip University, and I enjoy learning new things every day.
 
